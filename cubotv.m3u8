@@ -2,12 +2,19 @@
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/b9785c031be132ff4a8e2dcbdfdfac42.m3u8
+
 #EXTINF:0,Della TV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/c8c8825aa8ed7f64b27e9be50b6f115a.m3u8
+
 #EXTINF:0,Radio Free
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/2bbab281fc342c4322d30f2117a8fac3.m3u8
+
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/93520beb609920833a0be95e279bc221.m3u8
+
+#EXTINF:0,Uno TV
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/93520beb609920833a0be95e279bc231.m3u8
