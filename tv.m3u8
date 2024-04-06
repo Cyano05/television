@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0,TEST 3
+#EXTGRP:unsorted
+https://64b16f23efbee.streamlock.net:443/supersix/supersix/playlist.m3u8
+#EXTINF:0,TEST 2
+#EXTGRP:unsorted
+https://64b16f23efbee.streamlock.net:443/supersix/supersix/playlist.m3u8
 #EXTINF:0,TEST
 #EXTGRP:unsorted
 https://64b16f23efbee.streamlock.net:443/supersix/supersix/playlist.m3u8
