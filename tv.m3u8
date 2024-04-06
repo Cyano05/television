@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:1,TEST 3
+#EXTINF:0,TEST 3
+#EXTGRP:1
+https://64b16f23efbee.streamlock.net:443/supersix/supersix/playlist.m3u8
+#EXTINF:0,TEST 2
 #EXTGRP:unsorted
 https://64b16f23efbee.streamlock.net:443/supersix/supersix/playlist.m3u8
-#EXTINF:2,TEST 2
+#EXTINF:0,TEST
 #EXTGRP:unsorted
 https://64b16f23efbee.streamlock.net:443/supersix/supersix/playlist.m3u8
-#EXTINF:3,TEST
-#EXTGRP:unsorted
+#EXTINF:0,Ka-Boom
+#EXTGRP:2
 https://64b16f23efbee.streamlock.net:443/supersix/supersix/playlist.m3u8
-#EXTINF:4,Ka-Boom
-#EXTGRP:unsorted
-https://64b16f23efbee.streamlock.net:443/supersix/supersix/playlist.m3u8
-#EXTINF:5,SuperSix
+#EXTINF:0,SuperSix
 #EXTGRP:unsorted
 https://64b16f23efbee.streamlock.net:443/supersix/supersix/playlist.m3u8
