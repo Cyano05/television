@@ -1,17 +1,13 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-#EXTIMG: https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F32faa995837eed680484497f4c465298.cdn.bubble.io%2Ff1703976973402x226676927099274780%2FCubo%2520TV%2520logo.png
 https://app.viloud.tv/hls/channel/b9785c031be132ff4a8e2dcbdfdfac42.m3u8
 #EXTINF:0,Della TV
 #EXTGRP:unsorted
-#EXTIMG: https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F32faa995837eed680484497f4c465298.cdn.bubble.io%2Ff1702567469794x402059105087982900%2FDella%2520%2528TV%2529.png
 https://app.viloud.tv/hls/channel/c8c8825aa8ed7f64b27e9be50b6f115a.m3u8
 #EXTINF:0,Radio Free
 #EXTGRP:unsorted
-#EXTIMG: https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F32faa995837eed680484497f4c465298.cdn.bubble.io%2Ff1709409329511x995861296388796000%2FRadio%2520Free.png
 https://app.viloud.tv/hls/channel/2bbab281fc342c4322d30f2117a8fac3.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
-#EXTIMG: https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F32faa995837eed680484497f4c465298.cdn.bubble.io%2Ff1712348889893x550223298321842240%2FJunior%2520TV.png
 https://app.viloud.tv/hls/channel/93520beb609920833a0be95e279bc221.m3u8
