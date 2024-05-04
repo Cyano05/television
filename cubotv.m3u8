@@ -1,13 +1,19 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/03659b159f1a569152faed8786add687.m3u8
-#EXTINF:0,Della TV
+https://app.viloud.tv/hls/channel/b6ac65bf464e1562ae6325b46a8d1e28.m3u8
+#EXTINF:0,DellaTV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/b0701fe4fd67a892b4d2a05791957349.m3u8
+https://app.viloud.tv/hls/channel/03a0383d89d413e6c843d16fafd8e128.m3u8
 #EXTINF:0,Cubo TV Malta
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/f100eec94fa0128770bbc236dae14eac.m3u8
+https://app.viloud.tv/hls/channel/415835614dab77f5e21fef0462a15c7e.m3u8
+#EXTINF:0,Cubo TV Radio
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/bab1e2144f5e46fad83c9211fecafdf2.m3u8
+#EXTINF:0,CHANNEL163
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/39e28a5d8a1bfabaa0a11703b3c3322a.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/1d27cb5572a11cef18ab388e5c8c56fa.m3u8
+https://app.viloud.tv/hls/channel/e16cd109717cb1516ee6a2df24921014.m3u8
