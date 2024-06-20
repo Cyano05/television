@@ -8,6 +8,9 @@ https://app.viloud.tv/hls/channel/b3a11005fd4eb5fd8009b85397690b50.m3u8
 #EXTINF:0,Cubo TV Radio
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/c64e5daf2b2427d229e6b1110476a89b.m3u8
+#EXTINF:0,Televietnam
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/7501cda5911aaa2902c3fe4389e92d14.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/b95d9a15901a9fb6b5534cf1fa840f0e.m3u8
