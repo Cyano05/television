@@ -1,16 +1,13 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/669a08f28aaa11fe10084a2a1b3bed9f.m3u8
+https://app.viloud.tv/hls/channel/a2d79950b344a994a3e2fb1a7bc10745.m3u8
 #EXTINF:0,DellaTV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/b3a11005fd4eb5fd8009b85397690b50.m3u8
+https://app.viloud.tv/hls/channel/4f3369e2fda1d62c2104e71047842aac.m3u8
 #EXTINF:0,Cubo TV Radio
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/c64e5daf2b2427d229e6b1110476a89b.m3u8
-#EXTINF:0,Televietnam
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/7501cda5911aaa2902c3fe4389e92d14.m3u8
+https://app.viloud.tv/hls/channel/0530a1b791570b30d33cfc3b07db0092.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/b95d9a15901a9fb6b5534cf1fa840f0e.m3u8
+https://app.viloud.tv/hls/channel/fba5853c31010b98a467db1e4023bb7e.m3u8
