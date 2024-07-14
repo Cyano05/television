@@ -11,3 +11,6 @@ https://app.viloud.tv/hls/channel/0530a1b791570b30d33cfc3b07db0092.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/6e03167dc9c931a51344d37697e9c6a0.m3u8
+#EXTINF:0,CHANNEL 163 CHINA TV
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/0a6f8ee92ebdbdc815df103d0aa56fd2.m3u8
