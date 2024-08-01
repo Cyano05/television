@@ -5,9 +5,6 @@ https://app.viloud.tv/hls/channel/3d9727a679885c4bb86e989c8176cf90.m3u8
 #EXTINF:0,DellaTV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/c044be2797755ea44de5c0e8dad63e0f.m3u8
-#EXTINF:0,Cubo TV Radio
-#EXTGRP:unsorted
-https://stream-176.zeno.fm/zrum5yu6nsatv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6cnVtNXl1Nm5zYXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlwVVF3WUFCU2FDYldvQ3VycFE3bUEiLCJpYXQiOjE3MjI1MjIxMjUsImV4cCI6MTcyMjUyMjE4NX0.3lEBTvtQUIpoK4ufxRxvYs9jVA7-qgoWA6BIjPdCgG8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/4c374495ac16d5c066d0442b5cac707d.m3u8
