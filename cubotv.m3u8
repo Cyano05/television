@@ -8,6 +8,9 @@ https://app.viloud.tv/hls/channel/c044be2797755ea44de5c0e8dad63e0f.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/4c374495ac16d5c066d0442b5cac707d.m3u8
+#EXTINF:0,Cubo TV Radio
+#EXTGRP:unsorted
+https://stream.zeno.fm/zrum5yu6nsatv
 #EXTINF:0,CHANNEL 163 CHINA TV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/20e70afdb89af576e0d33b9d671a060b.m3u8
