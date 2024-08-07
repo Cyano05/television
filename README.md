@@ -6,6 +6,6 @@ Before you create a m3u8 playlist on IPTV apps, put and enter this link: https:/
 After this, you can watch your favorite channels, the tv.m3u8 github file will be automatically updated itself on all IPTV apps (such as Ottplayer)
 
 # Support in Working Tv Url:
-- Ottplayer
-- MPC-BE
+- Ottplayer (Macos , Windows , Android and etc)
+- MPC-BE ( Windows Only) 
  
