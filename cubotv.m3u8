@@ -20,3 +20,9 @@ https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 #EXTINF:0,TELESHOPPING
 #EXTGRP:unsorted
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:0,PROMO MUSIC
+#EXTGRP:unsorted
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+#EXTINF:0,PROMO NEWS
+#EXTGRP:unsorted
+https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
