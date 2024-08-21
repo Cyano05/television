@@ -35,3 +35,6 @@ https://stream.leetweb.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 #EXTINF:0,ONE
 #EXTGRP:unsorted
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:0,ONE RADIO
+#EXTGRP:unsorted
+https://s10.voscast.com:8203/stream
