@@ -32,3 +32,6 @@ https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.
 #EXTINF:0,TV SUD
 #EXTGRP:unsorted
 https://stream.leetweb.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+#EXTINF:0,ONE
+#EXTGRP:unsorted
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
