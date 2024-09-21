@@ -38,4 +38,15 @@ https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:0,ONE RADIO
 #EXTGRP:unsorted
 https://s10.voscast.com:8203/stream
-
+#EXTINF:0,TVM
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/11a31a89ac05195730d8db1687babd29.m3u8
+#EXTINF:0,NET
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/11a31a89ac05195730d8db1687babd29.m3u8
+#EXTINF:0,Smash
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/11a31a89ac05195730d8db1687babd29.m3u8
+#EXTINF:0,TVM Sport+
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/11a31a89ac05195730d8db1687babd29.m3u8
