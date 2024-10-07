@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
-#EXTGRP:Cubo TV
+#EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/c8eb02bccbfa8978b46fe362e9cbbac2.m3u8
 #EXTINF:0,DellaTV
-#EXTGRP:Cubo TV
+#EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/970aa167a2b836108f76b3d56a08ac31.m3u8
 #EXTINF:0,Junior TV
-#EXTGRP:Cubo TV
+#EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/34d9f3cea93b504aaae43e204c080022.m3u8
 #EXTINF:0,Cubo TV Radio
-#EXTGRP:Cubo TV
+#EXTGRP:unsorted
 https://stream.zeno.fm/zrum5yu6nsatv
 #EXTINF:0,CHINA TV
-#EXTGRP:Cubo TV
+#EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/67334a96ad4fea9551051d59d11a3816.m3u8
 #EXTINF:0,CHANNEL163
 #EXTGRP:unsorted
