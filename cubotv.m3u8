@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/c8eb02bccbfa8978b46fe362e9cbbac2.m3u8
+https://app.viloud.tv/hls/channel/3b01e4e3e0c47b5e26fe7fe1fcdb1ef4.m3u8
 #EXTINF:0,DellaTV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/970aa167a2b836108f76b3d56a08ac31.m3u8
+https://app.viloud.tv/hls/channel/6bf3fb5465f8a4f44dc18d34b5f08714.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/34d9f3cea93b504aaae43e204c080022.m3u8
+https://app.viloud.tv/hls/channel/71fa15ca635aec26ba35babd91630a5c.m3u8
 #EXTINF:0,Cubo TV Radio
 #EXTGRP:unsorted
 https://stream.zeno.fm/zrum5yu6nsatv
 #EXTINF:0,CHINA TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/67334a96ad4fea9551051d59d11a3816.m3u8
+https://app.viloud.tv/hls/channel/7c992f9812096aad6e19f6d2b14e5ce8.m3u8
 #EXTINF:0,CHANNEL162
 #EXTGRP:unsorted
 https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
@@ -47,4 +47,6 @@ https://radio.serv.si/VeseljakGolicaTV/video.m3u8
 #EXTINF:0,GLOBAL DIGITAL
 #EXTGRP:unsorted
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
-
+#EXTINF:0,GLOBAL DIGITAL 2
+#EXTGRP:unsorted
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
