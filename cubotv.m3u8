@@ -49,4 +49,7 @@ https://radio.serv.si/VeseljakGolicaTV/video.m3u8
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
 #EXTINF:0,GLOBAL DIGITAL 2
 #EXTGRP:unsorted
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+#EXTINF:0,GLOBAL DIGITAL 3
+#EXTGRP:unsorted
 https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
