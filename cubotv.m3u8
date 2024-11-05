@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/b708182c12b11e4df101141cda0dfdde.m3u8
+https://app.viloud.tv/hls/channel/4ab19d25141ab9d72629b211f79fc946.m3u8
 #EXTINF:0,DellaTV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/325d966effc3d882c9b85c045b562954.m3u8
+https://app.viloud.tv/hls/channel/79c350316629dac5fc477d96270c2dac.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/1afc4e4d3cf261074226bfb09ea956bf.m3u8
+https://app.viloud.tv/hls/channel/172e82b9e4a2a7a6f84bcf904e114ef7.m3u8
 #EXTINF:0,Cubo TV Radio
 #EXTGRP:unsorted
 https://stream.zeno.fm/zrum5yu6nsatv
 #EXTINF:0,CHINA TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/88ecfee45a0fb8f88ee7304c91bb4b15.m3u8
+https://app.viloud.tv/hls/channel/2d5ccca47c0452186db2aea5d0235c0e.m3u8
 #EXTINF:0,CHANNEL162
 #EXTGRP:unsorted
 https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
