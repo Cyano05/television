@@ -67,4 +67,16 @@ https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536
 https://5f22d76e220e1.streamlock.net/italialotto/italialotto/playlist.m3u8
 #EXTINF:0,GOLD TV CHANNEL
 #EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/79c350316629dac5fc477d96270c2dac.m3u8
+#EXTINF:0,GLOBAL DIGITAL 5
+#EXTGRP:unsorted
+https://eu1.servers10.com:8081/8230/index.m3u8
+#EXTINF:0,UNO TV
+#EXTGRP:unsorted
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:0,REVRY
+#EXTGRP:unsorted
+https://64b16f23efbee.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:0,PLAY TV
+#EXTGRP:unsorted
+https://64b16f23efbee.streamlock.net/iuniortv/iuniortv/playlist.m3u8
