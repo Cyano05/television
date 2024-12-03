@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/361c2efc7129506ddf1dfdd78d624661.m3u8
+https://app.viloud.tv/hls/channel/0887adfdf79633477fd216b0797b760f.m3u8
 #EXTINF:0,DellaTV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/007816f63c2a1ddcb5c1cd7e7bb09bfe.m3u8
+https://app.viloud.tv/hls/channel/d3311f151b55edb34be6f013b8ad882b.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/f82af600d07e1b4fcee0f38f8df9f3cd.m3u8
+https://app.viloud.tv/hls/channel/2230fd903cf38258046d4d49089843be.m3u8
 #EXTINF:0,Cubo TV Radio
 #EXTGRP:unsorted
 https://stream.zeno.fm/zrum5yu6nsatv
 #EXTINF:0,CHANNEL163
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/14654e452b34bc949c21bf83fb34de0d.m3u8
+https://app.viloud.tv/hls/channel/0b5a20a720f3330ad3567ee35cc582b0.m3u8
 #EXTINF:0,CHANNEL162
 #EXTGRP:unsorted
 https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
@@ -65,51 +65,6 @@ https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536
 #EXTINF:0,CyanTV
 #EXTGRP:unsorted
 https://5f22d76e220e1.streamlock.net/italialotto/italialotto/playlist.m3u8
-#EXTINF:0,Bakhos Channel
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/e08935daf032111101f0970f2a73198b.m3u8
 #EXTINF:0,GLOBAL DIGITAL 5
 #EXTGRP:unsorted
 https://eu1.servers10.com:8081/8230/index.m3u8
-#EXTINF:0,UNO TV
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/313067a1b6cff3085ffe7ae71a9866d6.m3u8
-#EXTINF:0,REVRY
-#EXTGRP:unsorted
-https://64b16f23efbee.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:0,CHANNEL 167
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/c99b9f9561c9317f40e69fb8684186c0.m3u8
-#EXTINF:0,CHANNEL 164
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/1ed408dd4d7db1061a6619ee99c2ac34.m3u8
-#EXTINF:0,CHANNEL 165
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/0cd804213b378fc03e032fff354bacd1.m3u8
-#EXTINF:0,CHANNEL 176
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/19439aa6d6788005dd3a9cd81c4eaf54.m3u8
-#EXTINF:0,CUBO TV MALTA
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/e7cccd17f4f593279157b1eec9effd60.m3u8
-#EXTINF:0,CUBO TV SLOVENIA
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/cf17a7493cd6e2923f7b563068e0f773.m3u8
-#EXTINF:0,CUBO TV SICILIA
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/2347c4789197b98e96cf2ac9c1e4347b.m3u8
-#EXTINF:0,CUBO TV SARDEGNA
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/404b2a68897259aa5c8b716d92722332.m3u8
-#EXTINF:0,CUBO TV AFRICA
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/b035785c0dd6280be76bf07059d2db13.m3u8
-#EXTINF:0,TELEVISTA On Air
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/8c28435cd71563887337da1a75472405.m3u8
-#EXTINF:0,Televietnam
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/1d5b98c8bf3c9d760c18d3033a6ab058.m3u8
-#EXTINF:0,EUROFREE
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/8ee45c676837f3d0dfb6e015fbd67eef.m3u8
