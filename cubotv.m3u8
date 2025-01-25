@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/712e09fbd9806af1a4c8a7a6b2e1802d.m3u8
+https://app.viloud.tv/hls/channel/1aed073a4e5c5572f8e32c94847572bf.m3u8
 #EXTINF:0,DellaTV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/99bb218d5b946c0a7068b94e5d222e90.m3u8
+https://app.viloud.tv/hls/channel/df245bf73064339c5ca423ffe7567deb.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/82a55bed3e4b7c6bb4879e0146687edc.m3u8
+https://app.viloud.tv/hls/channel/4b7b28964d0a919767f194d11a1240c6.m3u8
 #EXTINF:0,Cyano Radio
 #EXTGRP:unsorted
 https://stream.zeno.fm/zrum5yu6nsatv
