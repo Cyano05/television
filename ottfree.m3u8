@@ -2,3 +2,15 @@
 #EXTINF:0,BTC TV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/b96317273d9a93d428655045c485d88d.m3u8
+#EXTINF:0,BTC TV TEST
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/b96317273d9a93d428655045c485d88d.m3u8
+#EXTINF:0,DellaTV Strimm
+#EXTGRP:unsorted
+https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1737675698084x591519440167826600/Black%20Screen.mp4
+#EXTINF:0,UNO TV
+#EXTGRP:unsorted
+https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1737675698084x591519440167826600/Black%20Screen.mp4
+#EXTINF:0,StudioNetwork
+#EXTGRP:unsorted
+https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1737675698084x591519440167826600/Black%20Screen.mp4
