@@ -1,16 +1,13 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/fd46ce2b14ad6571d77250cdc040e81b.m3u8
+https://app.viloud.tv/hls/channel/66d5f45a6ff0a522c7532655a383310d.m3u8
 #EXTINF:0,DellaTV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/1bda87413dff9aae16017b730b50f083.m3u8
+https://app.viloud.tv/hls/channel/12d9e13bc6a7896a35dadbd74ed41e02.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/5f52f75e0546f9aa6ec1e85061754d4a.m3u8
+https://app.viloud.tv/hls/channel/d8b755380923c933685a05d3284430e0.m3u8
 #EXTINF:0,Cyano Radio
 #EXTGRP:unsorted
 https://stream.zeno.fm/zrum5yu6nsatv
-#EXTINF:0,Cyano165
-#EXTGRP:unsorted
-https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1737675698084x591519440167826600/Black%20Screen.mp4
