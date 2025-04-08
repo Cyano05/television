@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,BTC TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/1d93ec0d294690bca65e043cc59aaecf.m3u8
+https://app.viloud.tv/hls/channel/edcf3f22b62f7781ddf1ed5eee2c1c2e.m3u8
 #EXTINF:0,PROMO VIDEO
 #EXTGRP:unsorted
 https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1742221744445x290284566304001500/BARRE%20COLORE.mp4
@@ -14,30 +14,39 @@ https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1742221744445x2902845663
 #EXTINF:0,PROMO SPORT
 #EXTGRP:unsorted
 https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1742221744445x290284566304001500/BARRE%20COLORE.mp4
+#EXTINF:0,PROMO CLUB
+#EXTGRP:unsorted
+https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1742221744445x290284566304001500/BARRE%20COLORE.mp4
+#EXTINF:0,PROMO TIME
+#EXTGRP:unsorted
+https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1742221744445x290284566304001500/BARRE%20COLORE.mp4
+#EXTINF:0,PROMO KIDS
+#EXTGRP:unsorted
+https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1742221744445x290284566304001500/BARRE%20COLORE.mp4
 #EXTINF:0,CHANNEL 227
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/7bb0d4f781c87ce07de1cbc248c402ff.m3u8
+https://app.viloud.tv/hls/channel/7865b798780291db34220b143c36c06e.m3u8
 #EXTINF:0,CHANNEL 243
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/7bb0d4f781c87ce07de1cbc248c402ff.m3u8
+https://app.viloud.tv/hls/channel/7865b798780291db34220b143c36c06e.m3u8
 #EXTINF:0,CHANNEL 263
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/7bb0d4f781c87ce07de1cbc248c402ff.m3u8
+https://app.viloud.tv/hls/channel/7865b798780291db34220b143c36c06e.m3u8
 #EXTINF:0,CHANNEL 267
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/7bb0d4f781c87ce07de1cbc248c402ff.m3u8
+https://app.viloud.tv/hls/channel/7865b798780291db34220b143c36c06e.m3u8
 #EXTINF:0,CHANNEL 157
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/7bb0d4f781c87ce07de1cbc248c402ff.m3u8
+https://app.viloud.tv/hls/channel/7865b798780291db34220b143c36c06e.m3u8
 #EXTINF:0,CHANNEL 158
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/7bb0d4f781c87ce07de1cbc248c402ff.m3u8
+https://app.viloud.tv/hls/channel/7865b798780291db34220b143c36c06e.m3u8
 #EXTINF:0,CHANNEL 162
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/7bb0d4f781c87ce07de1cbc248c402ff.m3u8
+https://app.viloud.tv/hls/channel/7865b798780291db34220b143c36c06e.m3u8
 #EXTINF:0,CHANNEL 237
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/7bb0d4f781c87ce07de1cbc248c402ff.m3u8
+https://app.viloud.tv/hls/channel/7865b798780291db34220b143c36c06e.m3u8
 #EXTINF:0,CHANNEL 238
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/7bb0d4f781c87ce07de1cbc248c402ff.m3u8
+https://app.viloud.tv/hls/channel/7865b798780291db34220b143c36c06e.m3u8
