@@ -11,9 +11,6 @@ https://app.viloud.tv/hls/channel/ff35876530333eee4dec6bcaf4a562b4.m3u8
 #EXTINF:0,Cyano News 24
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/a56311bc83ecab8432263bdf7dfe41bd.m3u8
-#EXTINF:0,Corner Network
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/6cc4b65c95d06490bad4447e7b3e43a0.m3u8
 #EXTINF:0,Cyano Radio
 #EXTGRP:unsorted
 https://stream.zeno.fm/zrum5yu6nsatv
