@@ -5,6 +5,9 @@ https://app.viloud.tv/hls/channel/a05a11f796c4b28a4073561257384a12.m3u8
 #EXTINF:0,PROMO VIDEO
 #EXTGRP:unsorted
 https://vocaloid.radioca.st/stream
+#EXTINF:0,PROMO GAME
+#EXTGRP:unsorted
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
 #EXTINF:0,DellaTV - YouTube Channel
 #EXTGRP:unsorted
 https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1752100226967x457867441594199040/DELLATV%20YOUTUBE%20CHANNEL.mp4
