@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,‎ 
+#EXTINF:0,PROMO MUSIC
 #EXTGRP:unsorted
-https://e5f949f734be7ddcf2dbd6856c589a9d.cdn.bubble.io/f1737675698084x591519440167826600/Black%20Screen.mp4
+https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
 #EXTINF:0,‎BTC TV ENGLISH
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/92ea88a7514de712f8e043cab9bc4f6c.m3u8
@@ -9,5 +9,8 @@ https://app.viloud.tv/hls/channel/92ea88a7514de712f8e043cab9bc4f6c.m3u8
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/92ea88a7514de712f8e043cab9bc4f6c.m3u8
 #EXTINF:0,‎PROMO VIDEO
+#EXTGRP:unsorted
+https://host1.momentotv.live:28443/cmaf/televendita1/playlist.m3u8
+#EXTINF:0,‎PROMO GAME
 #EXTGRP:unsorted
 https://host1.momentotv.live:28443/cmaf/televendita1/playlist.m3u8
