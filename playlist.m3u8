@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
 https://app.viloud.tv/hls/channel/edaa7fa1b48195952a7fba076306d243.m3u8
