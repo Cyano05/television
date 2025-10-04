@@ -1,16 +1,22 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/6c79da0e331bffcf03b8a95937d5582f.m3u8
+https://app.viloud.tv/hls/channel/d50dde1d447780c030a07ea6802dcd31.m3u8
 #EXTINF:0,MAX2
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/6f9b3c1e852998aca15a16cd0c1ef4e1.m3u8
+https://app.viloud.tv/hls/channel/3aac5ce9a5d4e738ea1d3f6dab825f9b.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/5312a1ba5e9ced567df789c2504027a3.m3u8
+https://app.viloud.tv/hls/channel/a496273c08ad2851b928ee45aaf5733f.m3u8
 #EXTINF:0,Telecyan
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/3d55c5521a481fc6196b0f41f36c8c83.m3u8
+https://app.viloud.tv/hls/channel/a5e1a675d3fde336382d96eb7b6b75c7.m3u8
+#EXTINF:0,DellaTV
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/1546fb679e218ef51993df0965e1389d.m3u8
+#EXTINF:0,Japan TV
+#EXTGRP:unsorted
+https://app.viloud.tv/hls/channel/1546fb679e218ef51993df0965e1389d.m3u8
 #EXTINF:0,Cyano Radio
 #EXTGRP:unsorted
 https://stream.zeno.fm/zrum5yu6nsatv
