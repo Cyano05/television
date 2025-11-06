@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-TARGETDURATION
 #EXTINF:0,BTC TV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/8b06a126fe2fe29a151095b4ba3e36d6.m3u8
