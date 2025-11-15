@@ -4,16 +4,10 @@
 https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
 #EXTINF:0,‎BTC TV ENGLISH
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/8b06a126fe2fe29a151095b4ba3e36d6.m3u8
-#EXTINF:0,‎PROMO SPORT
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/8b06a126fe2fe29a151095b4ba3e36d6.m3u8
-#EXTINF:0,‎PROMO LIVE
-#EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/8b06a126fe2fe29a151095b4ba3e36d6.m3u8
+https://app.viloud.tv/hls/channel/1cf98b4ffcee0f96ac52c1c87ebbc8b0.m3u8
 #EXTINF:0,‎DUE
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/8b06a126fe2fe29a151095b4ba3e36d6.m3u8
+https://app.viloud.tv/hls/channel/1cf98b4ffcee0f96ac52c1c87ebbc8b0.m3u8
 #EXTINF:0,‎PROMO VIDEO
 #EXTGRP:unsorted
 https://host1.momentotv.live:28443/cmaf/televendita1/playlist.m3u8
