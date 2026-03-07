@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/a7a1b60531ea4ced7eb32b4a822c5794.m3u8
+https://app.viloud.tv/hls/channel/fffb144b90dbd23afc732af92f492e3d.m3u8
 #EXTINF:0,MAX2
 #EXTGRP:unsorted
 https://live20.bozztv.com/giatvplayout7/giatv-211170/playlist.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/d77a07b7efaec6cbd86cff4eb129ac01.m3u8
+https://app.viloud.tv/hls/channel/f1c2bf24c931996f0d7e5543088a4370.m3u8
 #EXTINF:0,Telecyan
 #EXTGRP:unsorted
 https://live20.bozztv.com/giatvplayout7/giatv-211170/playlist.m3u8
@@ -16,7 +16,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211170/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211170/playlist.m3u8
 #EXTINF:0,DellaTV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/c93a003914e374ec2fd032f27b1fe32c.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:0,Japan TV
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/c93a003914e374ec2fd032f27b1fe32c.m3u8
