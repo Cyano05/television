@@ -11,9 +11,6 @@ https://app.viloud.tv/hls/channel/3b9ed3a8e20086a09584b609d6500100.m3u8
 #EXTINF:0,Telecyan
 #EXTGRP:unsorted
 https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
-#EXTINF:0,Cyano Play
-#EXTGRP:unsorted
-https://live20.bozztv.com/giatvplayout7/giatv-211170/playlist.m3u8
 #EXTINF:0,DellaTV
 #EXTGRP:unsorted
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
