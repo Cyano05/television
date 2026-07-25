@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/1aa55c50f8fc40f585f8114ec3a7f03f.m3u8
+https://app.viloud.tv/hls/channel/b8af84b06b7d8163d379533029336955.m3u8
 #EXTINF:0,MAX2
 #EXTGRP:unsorted
 https://live20.bozztv.com/giatvplayout7/giatv-211503/playlist.m3u8
 #EXTINF:0,Junior TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/ca2103d52bdd505a8881fea1aee43f9f.m3u8
+https://app.viloud.tv/hls/channel/3f12330a2ef49450ea8a081de8689e6e.m3u8
 #EXTINF:0,Telecyan
 #EXTGRP:unsorted
 https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
