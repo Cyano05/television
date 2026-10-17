@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0,Cubo TV
 #EXTGRP:unsorted
-https://app.viloud.tv/hls/channel/69afbfdddd2ad7a3dcea328c13d92cd7.m3u8
-#EXTINF:0,MAX2
+https://app.viloud.tv/hls/channel/139966e0de8d5531bca06f09cfae2ade.m3u8
+#EXTINF:0,La165
 #EXTGRP:unsorted
 https://live20.bozztv.com/giatvplayout7/giatv-211503/playlist.m3u8
 #EXTINF:0,Anitoon
@@ -17,6 +17,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:0,Japan TV
 #EXTGRP:unsorted
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
-#EXTINF:0,Cyano Radio
+#EXTINF:0,Radio Della
 #EXTGRP:unsorted
 https://stream.zeno.fm/zrum5yu6nsatv
