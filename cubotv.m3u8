@@ -4,19 +4,19 @@
 https://app.viloud.tv/hls/channel/139966e0de8d5531bca06f09cfae2ade.m3u8
 #EXTINF:0,La165
 #EXTGRP:unsorted
-https://live20.bozztv.com/giatvplayout7/giatv-211503/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211503/playlist.m3u8
 #EXTINF:0,Anitoon
 #EXTGRP:unsorted
 https://app.viloud.tv/hls/channel/105b62fc73f30abc46afca9ad95d876a.m3u8
 #EXTINF:0,Telecyan
 #EXTGRP:unsorted
-https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8
 #EXTINF:0,DellaTV
 #EXTGRP:unsorted
-https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:0,Japan TV
 #EXTGRP:unsorted
-https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:0,Radio Della
 #EXTGRP:unsorted
 https://stream.zeno.fm/zrum5yu6nsatv
